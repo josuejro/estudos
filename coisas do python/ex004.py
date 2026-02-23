@@ -1,0 +1,6 @@
+x = input('Digite algo: ')
+print(x.isprintable())
+print(x.isalnum())
+print(x.isupper())
+print(x.istitle())
+print(x.isidentifier())
