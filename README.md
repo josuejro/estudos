@@ -74,4 +74,5 @@ Atenção especial aos exercícios finais, que exigem a presença de pacotes per
 ## Autor
 
 Josué Junior
+
 Estudante de Ciência da Computação — IFMA, Imperatriz, MA
